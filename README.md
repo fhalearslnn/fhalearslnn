@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1680523323882/5db8c3d2-a8c1-418d-9c5b-c9cfcbb8a0c0.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)]
 <h1 align="center">Hi 👋, I'm hale</h1>
 <h3 align="center">A learning journey with AWS/DevOps</h3>
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+<img align="right" alt="Coding" width="350" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
 - 🌱 I’m currently learning **AWS/DevOps**
 
