@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS/DevOps**
 
-- 💬 Ask me about **AWS , Python , JS**
+- 💬 Ask me about **AWS , Python , JS and anything about DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
