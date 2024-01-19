@@ -1,4 +1,4 @@
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680523323882/5db8c3d2-a8c1-418d-9c5b-c9cfcbb8a0c0.gif" alt="MasterHead" width="600" height="320">
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680523323882/5db8c3d2-a8c1-418d-9c5b-c9cfcbb8a0c0.gif" alt="MasterHead" width="800" height="320">
 #[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1680523323882/5db8c3d2-a8c1-418d-9c5b-c9cfcbb8a0c0.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)]
 <h1 align="center">Hi 👋, I'm hale</h1>
 <h3 align="center">A learning journey with AWS/DevOps</h3>
