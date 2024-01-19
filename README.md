@@ -1,4 +1,4 @@
-# <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680523323882/5db8c3d2-a8c1-418d-9c5b-c9cfcbb8a0c0.gif" alt="MasterHead" style="width: 100%; height: auto;">
+
 <h1 align="center">Hi 👋, I'm hale</h1>
 <h3 align="center">A learning journey with AWS/DevOps</h3>
 <img align="right" alt="Coding" width="350" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
